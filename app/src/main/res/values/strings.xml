@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_b">Enter b</string>
+    <string name="enter_c">Enter c</string>
+    <string name="enter_a">Enter a</string>
+    <string name="solve">Solve</string>
+    <string name="not_solve">Not solve!</string>
+</resources>
